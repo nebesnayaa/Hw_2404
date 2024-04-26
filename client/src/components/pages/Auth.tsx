@@ -1,3 +1,9 @@
+import FormAuth from "../forms/FormAuth";
+
 export default function Auth() {
-  return <div>Auth</div>;
+  return (
+    <div>
+      <FormAuth />
+    </div>
+  );
 }

@@ -8,7 +8,9 @@ function ListOfProducts() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("http://localhost:3000/products");
+        const response = await axios.get(
+          import.meta.env.VITE_PATH_TO_SERVER + "products"
+        );
         setData(response.data);
       } catch (error) {
         console.error("Error fetching data:", error);

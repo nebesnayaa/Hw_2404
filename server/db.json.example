@@ -1,0 +1,269 @@
+{
+  "users": [],
+  "categories": [
+    {
+      "id": "62bab42b-3652-42f6-b3c1-221ce296d66d",
+      "slug": "stone",
+      "name": "Вироби з каменю",
+      "description": "Декоративні та сувенірні товари з каменю",
+      "imageUrl": "stone.jpg",
+      "isActive": true
+    },
+    {
+      "id": "fd7cc5c1-3543-4bd6-b36c-64cf7e8f9030",
+      "slug": "wood",
+      "name": "Вироби з деревини",
+      "description": "Практичні та декоративні товари з деревини",
+      "imageUrl": "wood.jpg",
+      "isActive": true
+    },
+    {
+      "id": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office",
+      "name": "Товари для офісу",
+      "description": "Сувенірні товари для встановлення на стіл",
+      "imageUrl": "office.jpg",
+      "isActive": true
+    },
+    {
+      "id": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass",
+      "name": "Вироби зі скла",
+      "description": "Декоративні та сувенірні товари зі скла",
+      "imageUrl": "glass.jpg",
+      "isActive": true
+    }
+  ],
+  "products": [
+    {
+      "id": "8831cc8b-2ef1-402d-a2d3-00ab4fa11cc8",
+      "categoryId": "62bab42b-3652-42f6-b3c1-221ce296d66d",
+      "slug": "stone3",
+      "name": "Сова",
+      "description": "Фігурка-амулет у формі сови",
+      "imageUrl": "stone3.jpg",
+      "priceCent": 30000,
+      "isActive": true
+    },
+    {
+      "id": "ab475e6d-3c31-40bc-bede-01c9950fb597",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office6",
+      "name": "Система",
+      "description": "Декоративний настільний маятник у формі планетарної системи",
+      "imageUrl": "office6.jpg",
+      "priceCent": 32500,
+      "isActive": true
+    },
+    {
+      "id": "c7226697-c40c-41ed-8a6e-0acab3637691",
+      "categoryId": "fd7cc5c1-3543-4bd6-b36c-64cf7e8f9030",
+      "slug": "wood2",
+      "name": "Булава",
+      "description": "Сувенір - булава з дерева",
+      "imageUrl": "wood2.jpg",
+      "priceCent": 85000,
+      "isActive": true
+    },
+    {
+      "id": "0df61203-45d5-47e6-acad-0eef86f3757a",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass6",
+      "name": "Пава",
+      "description": "Фігурка павича з кольорового скла",
+      "imageUrl": "glass6.jpg",
+      "priceCent": 19000,
+      "isActive": true
+    },
+    {
+      "id": "b1659daa-ed1a-4937-b795-12d03f755520",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office4",
+      "name": "Маятник Жордана",
+      "description": "Декоративний настільний маятник у формі Жордана",
+      "imageUrl": "office4.jpg",
+      "priceCent": 37500,
+      "isActive": true
+    },
+    {
+      "id": "b574fa3b-3053-4a7f-974f-1ec777a8d4fd",
+      "categoryId": "fd7cc5c1-3543-4bd6-b36c-64cf7e8f9030",
+      "slug": "wood1",
+      "name": "Кошик",
+      "description": "Кошик з дерева середнього розміру",
+      "imageUrl": "wood1.jpg",
+      "priceCent": 48000,
+      "isActive": true
+    },
+    {
+      "id": "cb54c85d-a9cd-4068-8bba-234af7f8107d",
+      "categoryId": "fd7cc5c1-3543-4bd6-b36c-64cf7e8f9030",
+      "slug": "wood4",
+      "name": "Черепаха",
+      "description": "Настільна підставка для олівців з черепахою",
+      "imageUrl": "wood4.jpg",
+      "priceCent": 42050,
+      "isActive": true
+    },
+    {
+      "id": "fbafcf92-f5ed-4576-815a-293dfc15af61",
+      "categoryId": "62bab42b-3652-42f6-b3c1-221ce296d66d",
+      "slug": "stone2",
+      "name": "Груша",
+      "description": "Декоративна фігурка у формі груши з природнього каменю",
+      "imageUrl": "stone2.jpg",
+      "priceCent": 40000,
+      "isActive": true
+    },
+    {
+      "id": "e362e363-205d-439e-9778-2b504c34e9a3",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass3",
+      "name": "Гелікоптер",
+      "description": "Декоративна скляна сфера з гелікоптером",
+      "imageUrl": "glass3.jpg",
+      "priceCent": 33050,
+      "isActive": true
+    },
+    {
+      "id": "87b48b86-6347-4a12-8f7d-31d89fc2f793",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office5",
+      "name": "Штурвал",
+      "description": "Прес для паперів у формі штурвалу",
+      "imageUrl": "office5.jpeg",
+      "priceCent": 34550,
+      "isActive": true
+    },
+    {
+      "id": "fe434459-bb36-4a09-9494-395504531286",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office1",
+      "name": "Вершник",
+      "description": "Декоративний настільний маятник у формі вершника",
+      "imageUrl": "office1.jpeg",
+      "priceCent": 39050,
+      "isActive": true
+    },
+    {
+      "id": "c6759bfd-8463-4601-aaea-3f4902402dbd",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass2",
+      "name": "Бик",
+      "description": "Фігурка бика з кольорового скла",
+      "imageUrl": "glass2.jpg",
+      "priceCent": 41000,
+      "isActive": true
+    },
+    {
+      "id": "b466382a-a59b-471a-a847-4a53b582da09",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office3",
+      "name": "Сонцеворот",
+      "description": "Декоративна настільна фігурка",
+      "imageUrl": "office3.jpg",
+      "priceCent": 33000,
+      "isActive": true
+    },
+    {
+      "id": "87972425-8713-4f0c-85e5-536ba16eee4f",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass8",
+      "name": "Ваги",
+      "description": "Декоративна скляна сфера з терезами",
+      "imageUrl": "glass8.jpg",
+      "priceCent": 34000,
+      "isActive": true
+    },
+    {
+      "id": "eead4f41-cd3f-44ca-83d7-68b79d80e880",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass4",
+      "name": "Лис",
+      "description": "Фігурка лисиці з кольорового скла",
+      "imageUrl": "glass4.jpeg",
+      "priceCent": 25000,
+      "isActive": true
+    },
+    {
+      "id": "6f6a5542-41dd-4aff-ab50-9ee37b59c8aa",
+      "categoryId": "fd7cc5c1-3543-4bd6-b36c-64cf7e8f9030",
+      "slug": "wood3",
+      "name": "Кухолі",
+      "description": "Набір кухолів з дерева",
+      "imageUrl": "wood3.jpg",
+      "priceCent": 21000,
+      "isActive": true
+    },
+    {
+      "id": "5fd8b900-ebff-4a0b-a782-a25827555046",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office7",
+      "name": "Маятник",
+      "description": "Декоративний настільний маятник у формі орбітальних кульок",
+      "imageUrl": "office7.jpg",
+      "priceCent": 35000,
+      "isActive": true
+    },
+    {
+      "id": "d31b9563-1292-483a-89ca-ae0caa50a244",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass7",
+      "name": "Кіт",
+      "description": "Фігурка кота з прозорого скла",
+      "imageUrl": "glass7.jpg",
+      "priceCent": 41050,
+      "isActive": true
+    },
+    {
+      "id": "7cadc8af-3b7d-449f-a003-c99658fb693b",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass5",
+      "name": "Цукерниця",
+      "description": "Скляна настільна форма для цукерок",
+      "imageUrl": "glass5.jpg",
+      "priceCent": 37000,
+      "isActive": true
+    },
+    {
+      "id": "d714a1c5-3586-4c3b-9b77-d450813c6816",
+      "categoryId": "62bab42b-3652-42f6-b3c1-221ce296d66d",
+      "slug": "stone1",
+      "name": "Цукорниця",
+      "description": "Посуд-цукорниця з природнього каменю",
+      "imageUrl": "stone1.jpg",
+      "priceCent": 35000,
+      "isActive": true
+    },
+    {
+      "id": "35755354-fda6-4cba-b39d-d657067c6b39",
+      "categoryId": "fd7cc5c1-3543-4bd6-b36c-64cf7e8f9030",
+      "slug": "wood5",
+      "name": "Леви",
+      "description": "Декоративний твір з дерева",
+      "imageUrl": "wood5.jpeg",
+      "priceCent": 54000,
+      "isActive": true
+    },
+    {
+      "id": "bef5a5dc-8bbb-485b-adcf-dcf9b7f62e72",
+      "categoryId": "25044c03-549f-4a52-86c3-975196966aa1",
+      "slug": "glass1",
+      "name": "Сфера з ялинкою",
+      "description": "Декоративна скляна сфера з ялинкою",
+      "imageUrl": "glass1.png",
+      "priceCent": 32050,
+      "isActive": true
+    },
+    {
+      "id": "3d149a4c-cf4c-403a-b524-e107f684bbae",
+      "categoryId": "d6b69746-b24c-4f42-927b-78c1d539af38",
+      "slug": "office2",
+      "name": "Маятник Ньютона",
+      "description": "Декоративний настільний маятник Ньютона",
+      "imageUrl": "office2.jpg",
+      "priceCent": 42000,
+      "isActive": true
+    }
+  ]
+}

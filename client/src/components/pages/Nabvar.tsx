@@ -41,6 +41,11 @@ export default function Nabvar() {
                   List Of Users
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/create_category">
+                  Create Category
+                </Link>
+              </li>
             </ul>
           </div>
         </div>

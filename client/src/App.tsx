@@ -4,6 +4,7 @@ import Auth from "./components/pages/Auth";
 import Register from "./components/pages/Register";
 import Navbar from "./components/pages/Nabvar";
 import NotFoundPage from "./components/pages/NotFoundPage";
+import CreateCategory from "./components/pages/CreateCategory";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
           <Route index element={<Home />} />
           <Route path="/auth" element={<Auth />} />
           <Route path="/register" element={<Register />} />
+          <Route path="/create_category" element={<CreateCategory/>} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </BrowserRouter>

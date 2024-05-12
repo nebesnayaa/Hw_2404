@@ -45,7 +45,7 @@ function FormCategory() {
         imageUrl: "",
         isActive: true,
       });
-    } catch (error) {
+    } catch (error: any) {
       console.error("Error: ", "OUR ERROR: " + error.message);
     }
   };

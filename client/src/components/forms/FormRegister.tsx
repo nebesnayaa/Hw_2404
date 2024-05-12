@@ -1,17 +1,19 @@
 import { Formik, Field, ErrorMessage } from "formik";
 import yupRegisterSchema from "../../schemas/yupRegisterSchema";
 import { useState } from "react";
+import User from "../../models/User";
 function FormRegister() {
   const [isFormValid, setFormValid] = useState(false);
+  const user: User = {
+    name: "",
+    login: "",
+    email: "",
+    password: "",
+    confirmPassword: "",
+  };
   return (
     <Formik
-      initialValues={{
-        name: "",
-        login: "",
-        email: "",
-        password: "",
-        confirmPassword: "",
-      }}
+      initialValues={user}
       validationSchema={yupRegisterSchema}
       validationOnInput
       onSubmit={(values) => {

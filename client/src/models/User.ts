@@ -5,4 +5,5 @@ type User = {
   password: string;
   confirmPassword?: string;
 };
+
 export default User;

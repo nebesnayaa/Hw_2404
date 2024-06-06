@@ -1,0 +1,10 @@
+.card-image{
+  max-height: 50%;
+}
+
+.btn-card{
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+}

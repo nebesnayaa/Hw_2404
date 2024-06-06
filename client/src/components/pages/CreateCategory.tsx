@@ -1,7 +1,7 @@
-import FormCategory from "../forms/FormCategory";
+import FormCreateCategory from "../forms/FormCreateCategory";
 
 export default function CreateCategory() {
     return <>
-        <FormCategory />
+        <FormCreateCategory />
     </>
 }

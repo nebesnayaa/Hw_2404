@@ -37,8 +37,8 @@ export default function Nabvar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/list_of_users">
-                  List Of Users
+                <Link className="nav-link" to="/categories">
+                  Categories
                 </Link>
               </li>
               <li className="nav-item">

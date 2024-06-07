@@ -8,3 +8,10 @@
   left: 50%;
   transform: translateX(-50%);
 }
+
+.rates{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2p solid red;
+}

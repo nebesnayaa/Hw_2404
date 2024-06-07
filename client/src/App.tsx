@@ -5,7 +5,7 @@ import Register from "./components/pages/Register";
 import Navbar from "./components/pages/Nabvar";
 import NotFoundPage from "./components/pages/NotFoundPage";
 import CreateCategory from "./components/pages/CreateCategory";
-// import EditCategory from "./components/pages/EditCategory";
+import CurrencyWidget from './redux/components/CurrencyWidget';
 import "./App.css";
 import CategoriesPage from "./components/pages/CategoriesPage";
 
